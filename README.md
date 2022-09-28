@@ -1,4 +1,5 @@
 # hello
+[Nuxt.js入門決定版！Vue.jsのフレームワークNuxt.jsの基本からFirebaseと連携したSPAの開発まで](https://www.udemy.com/course/nuxtjs-the-complete-guide/)の学習用リポジトリ
 
 ## Build Setup
 
